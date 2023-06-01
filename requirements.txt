@@ -1,0 +1,6 @@
+numpy
+easyocr
+pyttsx3
+Flask
+tensorflow
+keras
